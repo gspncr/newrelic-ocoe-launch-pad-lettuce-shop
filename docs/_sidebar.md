@@ -14,5 +14,5 @@
 
 
 <div class='slackBlock'>
-<a href="https://slack.com" ><img src="_media/slack.png">#observability </a>
+<a href="https://newrelic.slack.com/archives/C01DD445UH5" ><img src="_media/slack.png">#observability </a>
 </dv>
